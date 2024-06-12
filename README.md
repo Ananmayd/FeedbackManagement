@@ -8,14 +8,16 @@ This project is a simple feedback management system built using Node.js, Express
 ## Technologies Used
 ### Backend:
 
-Node.js
-Express
-TypeScript
+> Node.js
+> Express
+> TypeScript
+
 ### Frontend:
 
-React
-TypeScript
-Additional Tools:
+> React
+> TypeScript
 
-Axios for API requests
-CSS for styling
+### Additional Tools:
+
+> Axios for API requests
+> CSS for styling
